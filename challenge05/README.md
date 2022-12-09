@@ -1,4 +1,4 @@
-# Challenge 05: Optimizando los viajes de Santa
+# Challenge 5: Optimizando los viajes de Santa
 
 ### Problema
 
@@ -33,7 +33,6 @@ getMaxGifts(giftsCities, maxGifts, maxCities); // 20
 ```
 
 Si no se puede realizar ningún viaje que satisface los requerimientos, el resultado debe ser `0`. Más ejemplos:
-`
 
 ```js
 getMaxGifts([12, 3, 11, 5, 7], 20, 3); // 20
